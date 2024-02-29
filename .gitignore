@@ -1,0 +1,5 @@
+
+events/*
+*.lock.json
+layers/*.class
+
